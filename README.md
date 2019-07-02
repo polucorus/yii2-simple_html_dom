@@ -7,20 +7,12 @@ Installation
 
 
 ```
-php composer.phar require --prefer-dist serhatozles/yii2-simplehtmldom "dev-master"
+php composer.phar require --prefer-dist cn13/yii2-simple_html_dom "1.0"
 ```
-
+OR
 ```
-php composer require cn13/simplehtmldom "dev-master"
+composer require --prefer-dist cn13/yii2-simple_html_dom "1.0"
 ```
-
-or add
-
-```
-"serhatozles/yii2-simplehtmldom": "dev-master"
-```
-
-to the require section of your `composer.json` file.
 
 
 Usage

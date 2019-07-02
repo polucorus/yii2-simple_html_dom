@@ -1,5 +1,5 @@
 {
-    "name": "cn13/simplehtmldom",
+    "name": "cn13/yii2-simple_html_dom",
     "description": "Simple HTML Dom YII2",
     "type": "yii2-extension",
     "keywords": ["yii2","extension","simplehtmldom"],
