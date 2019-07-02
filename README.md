@@ -7,11 +7,11 @@ Installation
 
 
 ```
-php composer.phar require --prefer-dist cn13/yii2-simple_html_dom "1.0"
+php composer.phar require --prefer-dist cn13/yii2-simple_html_dom
 ```
 OR
 ```
-composer require --prefer-dist cn13/yii2-simple_html_dom "1.0"
+composer require --prefer-dist cn13/yii2-simple_html_dom
 ```
 
 
