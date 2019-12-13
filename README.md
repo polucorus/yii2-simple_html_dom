@@ -7,11 +7,11 @@ Installation
 
 
 ```
-php composer.phar require --prefer-dist cn13/yii2-simple_html_dom "dev-master"
+php composer.phar require --prefer-dist polucorus/yii2-simplehtmldom-7.3 "dev-master"
 ```
 OR
 ```
-composer require --prefer-dist cn13/yii2-simple_html_dom "dev-master"
+composer require --prefer-dist polucorus/yii2-simplehtmldom-7.3 "dev-master"
 ```
 
 
@@ -21,4 +21,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \cn13\simplehtmldom\SimpleHTMLDom::file_get_html('http://google.com'); ?>```
+<?= \polucorus\simplehtmldom\SimpleHTMLDom::file_get_html('http://google.com'); ?>```
