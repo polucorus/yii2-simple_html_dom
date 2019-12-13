@@ -1,6 +1,6 @@
 <?php
 
-namespace cn13\simplehtmldom;
+namespace polucorus\simplehtmldom;
 
 define('HDOM_TYPE_ELEMENT', 1);
 define('HDOM_TYPE_COMMENT', 2);
